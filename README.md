@@ -1,5 +1,8 @@
 # CCRegisterX
 
+https://github.com/luckybilly/CC/issues/197 
+建议大家别折腾cc插件了，直接去掉把，它的作用也没那么大。
+
 fork自[CC路由的cc-register](https://github.com/luckybilly/CC/tree/master/cc-register)
 
 因大佬暂时不更新此插件，而项目gradle版本升级后，出现插件报错的问题。所以就踩在大佬的肩膀上，继续优化升级此插件。
